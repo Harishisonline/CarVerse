@@ -12,6 +12,7 @@
     "predeploy": "npm run build"
   },
   "dependencies": {
+    "duckduckgo-images-api": "^1.0.5",
     "framer-motion": "^12.35.0",
     "lucide-react": "^0.577.0",
     "react": "^19.2.0",

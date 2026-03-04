@@ -132,11 +132,11 @@ export const cars = [
     bgGradient: "linear-gradient(135deg, #1d1221 0%, #111 100%)",
     specs: { engine: "Dual Electric Motors", hp: "577 hp", topSpeed: "155 mph", zeroToSixty: "4.4s" },
     images: [
-      "https://loremflickr.com/800/600/rollsroyce,spectre/all?lock=1",
-      "https://loremflickr.com/800/600/rollsroyce,spectre/all?lock=2",
-      "https://loremflickr.com/800/600/rollsroyce,spectre/all?lock=3",
-      "https://loremflickr.com/800/600/rollsroyce,spectre/all?lock=4",
-      "https://loremflickr.com/800/600/rollsroyce,spectre/all?lock=5"
+      "spectre/1.png",
+      "spectre/2.png",
+      "spectre/3.png",
+      "spectre/4.png",
+      "spectre/1.png"
     ]
   }
 ];
