@@ -62,7 +62,7 @@ export const cars = [
     bgGradient: "linear-gradient(135deg, #09172e 0%, #111 100%)",
     specs: { engine: "8.0L Quad-Turbo W16", hp: "1500 hp", topSpeed: "261 mph", zeroToSixty: "2.4s" },
     images: [
-      "https://loremflickr.com/800/600/bugatti,chiron/all?lock=1",
+      "bugatti/1.jpg",
       "https://loremflickr.com/800/600/bugatti,chiron/all?lock=2",
       "https://loremflickr.com/800/600/bugatti,chiron/all?lock=3",
       "https://loremflickr.com/800/600/bugatti,chiron/all?lock=4",
