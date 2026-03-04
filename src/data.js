@@ -118,7 +118,7 @@ export const cars = [
     bgGradient: "linear-gradient(135deg, #2a0b0b 0%, #111 100%)",
     specs: { engine: "3.0L Twin-Turbo V6", hp: "300 hp", topSpeed: "155 mph", zeroToSixty: "5.0s" },
     images: [
-      "https://loremflickr.com/800/600/nissan,300zx/all?lock=1",
+      "nissan/1.jpg",
       "https://loremflickr.com/800/600/nissan,300zx/all?lock=2",
       "https://loremflickr.com/800/600/nissan,300zx/all?lock=3",
       "https://loremflickr.com/800/600/nissan,300zx/all?lock=4",
