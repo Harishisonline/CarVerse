@@ -136,7 +136,7 @@ export const cars = [
       "spectre/2.png",
       "spectre/3.png",
       "spectre/4.png",
-      "spectre/1.png"
+      "spectre/5.png"
     ]
   }
 ];
