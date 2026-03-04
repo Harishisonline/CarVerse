@@ -91,7 +91,7 @@ export const cars = [
     specs: { engine: "4.2L Inline-6", hp: "265 hp", topSpeed: "150 mph", zeroToSixty: "7.0s" },
     images: [
       "https://loremflickr.com/800/600/jaguar,etype/all?lock=1",
-      "https://loremflickr.com/800/600/jaguar,etype/all?lock=2",
+      "jaguar/2.jpg",
       "https://loremflickr.com/800/600/jaguar,etype/all?lock=3",
       "https://loremflickr.com/800/600/jaguar,etype/all?lock=4",
       "https://loremflickr.com/800/600/jaguar,etype/all?lock=5"
