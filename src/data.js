@@ -6,7 +6,7 @@ export const cars = [
     bgGradient: "linear-gradient(135deg, #2a0b0b 0%, #111 100%)",
     specs: { engine: "3.9L Twin-Turbo V8", hp: "612 hp", topSpeed: "199 mph", zeroToSixty: "3.4s" },
     images: [
-      "https://loremflickr.com/800/600/ferrari,roma/all?lock=1",
+      "roma/1.jpg",
       "https://loremflickr.com/800/600/ferrari,roma/all?lock=2",
       "https://loremflickr.com/800/600/ferrari,roma/all?lock=3",
       "https://loremflickr.com/800/600/ferrari,roma/all?lock=4",
