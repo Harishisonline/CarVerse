@@ -52,7 +52,7 @@ export const cars = [
       "https://loremflickr.com/800/600/lamborghini,huracan/all?lock=2",
       "https://loremflickr.com/800/600/lamborghini,huracan/all?lock=3",
       "https://loremflickr.com/800/600/lamborghini,huracan/all?lock=4",
-      "https://loremflickr.com/800/600/lamborghini,huracan/all?lock=5"
+      "lamborghini/5.jpg"
     ]
   },
   {
