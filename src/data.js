@@ -78,7 +78,7 @@ export const cars = [
     images: [
       "https://loremflickr.com/800/600/mclaren,720s/all?lock=1",
       "https://loremflickr.com/800/600/mclaren,720s/all?lock=2",
-      "https://loremflickr.com/800/600/mclaren,720s/all?lock=3",
+      "mclaren/3.jpg",
       "https://loremflickr.com/800/600/mclaren,720s/all?lock=4",
       "https://loremflickr.com/800/600/mclaren,720s/all?lock=5"
     ]
