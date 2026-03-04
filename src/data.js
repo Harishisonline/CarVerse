@@ -48,7 +48,7 @@ export const cars = [
     bgGradient: "linear-gradient(135deg, #2b2308 0%, #111 100%)",
     specs: { engine: "5.2L Naturally Aspirated V10", hp: "631 hp", topSpeed: "202 mph", zeroToSixty: "2.9s" },
     images: [
-      "https://loremflickr.com/800/600/lamborghini,huracan/all?lock=1",
+      "lamborghini/1.jpg",
       "https://loremflickr.com/800/600/lamborghini,huracan/all?lock=2",
       "https://loremflickr.com/800/600/lamborghini,huracan/all?lock=3",
       "https://loremflickr.com/800/600/lamborghini,huracan/all?lock=4",
