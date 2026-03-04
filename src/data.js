@@ -20,7 +20,7 @@ export const cars = [
     bgGradient: "linear-gradient(135deg, #091a0f 0%, #111 100%)",
     specs: { engine: "5.2L Twin-Turbo V12", hp: "630 hp", topSpeed: "208 mph", zeroToSixty: "3.7s" },
     images: [
-      "https://loremflickr.com/800/600/astonmartin,db11/all?lock=1",
+      "astonmartin/1.jpg",
       "https://loremflickr.com/800/600/astonmartin,db11/all?lock=2",
       "astonmartin/3.jpg",
       "https://loremflickr.com/800/600/astonmartin,db11/all?lock=4",
