@@ -35,7 +35,7 @@ export const cars = [
     specs: { engine: "3.0L Twin-Turbo Flat-6", hp: "379 hp", topSpeed: "182 mph", zeroToSixty: "4.0s" },
     images: [
       "https://loremflickr.com/800/600/porsche,911/all?lock=1",
-      "https://loremflickr.com/800/600/porsche,911/all?lock=2",
+      "porsche/2.jpg",
       "https://loremflickr.com/800/600/porsche,911/all?lock=3",
       "https://loremflickr.com/800/600/porsche,911/all?lock=4",
       "https://loremflickr.com/800/600/porsche,911/all?lock=5"
