@@ -104,7 +104,7 @@ export const cars = [
     bgGradient: "linear-gradient(135deg, #0e1a24 0%, #111 100%)",
     specs: { engine: "6.0L Twin-Turbo W12", hp: "650 hp", topSpeed: "208 mph", zeroToSixty: "3.5s" },
     images: [
-      "https://loremflickr.com/800/600/bentley,continental/all?lock=1",
+      "bentley/1.jpg",
       "https://loremflickr.com/800/600/bentley,continental/all?lock=2",
       "https://loremflickr.com/800/600/bentley,continental/all?lock=3",
       "https://loremflickr.com/800/600/bentley,continental/all?lock=4",
