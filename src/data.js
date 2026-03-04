@@ -133,7 +133,7 @@ export const cars = [
     specs: { engine: "Dual Electric Motors", hp: "577 hp", topSpeed: "155 mph", zeroToSixty: "4.4s" },
     images: [
       "spectre/1.png",
-      "spectre/2.png",
+      "spectre/2.jpg",
       "spectre/3.png",
       "spectre/4.png",
       "spectre/5.png"
